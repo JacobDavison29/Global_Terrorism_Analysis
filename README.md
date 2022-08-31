@@ -12,7 +12,7 @@ The global terrorism dataset was found on Kaggle ... The data consists of 181,69
 # Project Fidings
 
 My analysis of this dataset has led to some key findings that I find particularly intriguing.
-  -North America has the highest success rate of terrorism attacks being carried out with that success rate being 93%. 
+  - North America has the highest success rate of terrorism attacks being carried out with that success rate being 93%. 
   -The most common types of terorrism attacks globally are Bombings/Explosions.
   -The country with the most deaths per year from terrorist attacks is Iraq, however it is projected that Afghanistan will surpass Iraq in the coming years.
   -The continent with the most deaths from terrorism attacks is Africa.
