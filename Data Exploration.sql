@@ -1,3 +1,4 @@
+USE [Portfolio Project]
 
 -- Checking out the data 
 SELECT *
