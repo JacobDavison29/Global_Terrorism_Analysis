@@ -9,7 +9,7 @@ Analysis on global terrorism data. Using MS SQL Server to explore and get an und
 # About the Data
 The global terrorism dataset was found on Kaggle and is located [here](https://www.kaggle.com/datasets/START-UMD/gtd). The data consists of 181,691 data points that describe in depth different terrorism attacks that have taken place around the world between 1970 and 2017. 
 
-# Project Fidings
+# Project Findings
 
 My analysis of this dataset has led to some key findings that I find particularly intriguing.
   - North America has the highest success rate of terrorism attacks being carried out with that success rate being 93%. 
